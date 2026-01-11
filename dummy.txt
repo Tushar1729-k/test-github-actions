@@ -1,0 +1,4 @@
+This is a dummy file for testing PR creation.
+
+Created on: 2026-01-11
+Purpose: Demonstrating GitHub Actions workflow
